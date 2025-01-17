@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artwork - Light</title>
+    <defs>
+        <radialGradient cx="93.6475029%" cy="6.43001642%" fx="93.6475029%" fy="6.43001642%" r="51.7578125%" gradientTransform="translate(0.9365, 0.0643), scale(1, 0.966), rotate(90), scale(1, 1.9617), translate(-0.9365, -0.0643)" id="radialGradient-1">
+            <stop stop-color="#296993" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="93.5196905%" cy="54.5149988%" fx="93.5196905%" fy="54.5149988%" r="76.3227622%" gradientTransform="translate(0.9352, 0.5451), scale(1, 0.966), rotate(158.5205), scale(1, 2.0179), translate(-0.9352, -0.5451)" id="radialGradient-2">
+            <stop stop-color="#296993" stop-opacity="0.939248252" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="5.04986706%" cy="96.3184079%" fx="5.04986706%" fy="96.3184079%" r="76.3227622%" gradientTransform="translate(0.0505, 0.9632), scale(1, 0.966), rotate(158.5205), scale(1, 2.0179), translate(-0.0505, -0.9632)" id="radialGradient-3">
+            <stop stop-color="#296993" stop-opacity="0.939248252" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="-18.9760924%" cy="74.2325143%" fx="-18.9760924%" fy="74.2325143%" r="76.3227622%" gradientTransform="translate(-0.1898, 0.7423), scale(1, 0.966), rotate(158.5205), scale(1, 2.0179), translate(0.1898, -0.7423)" id="radialGradient-4">
+            <stop stop-color="#296993" stop-opacity="0.939248252" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="118.119417%" cy="32.8415252%" fx="118.119417%" fy="32.8415252%" r="76.3227622%" gradientTransform="translate(1.1812, 0.3284), scale(1, 0.966), rotate(158.5205), scale(1, 2.0179), translate(-1.1812, -0.3284)" id="radialGradient-5">
+            <stop stop-color="#296993" stop-opacity="0.939248252" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-6" cx="20.078125" cy="20" r="17.5"></circle>
+        <ellipse id="path-7" cx="12.195595" cy="13.0359115" rx="8.77180279" ry="8.77359647"></ellipse>
+        <ellipse id="path-8" cx="14.4769644" cy="11.9834023" rx="8.77180279" ry="8.77359647"></ellipse>
+        <ellipse id="path-9" cx="13.2304009" cy="14.2989226" rx="9.68407028" ry="9.6860505"></ellipse>
+        <ellipse id="path-10" cx="9.70303309" cy="16.7950898" rx="6.84204568" ry="6.84340525"></ellipse>
+        <ellipse id="path-11" cx="10.7559926" cy="17.637063" rx="6.84200618" ry="6.84340525"></ellipse>
+        <ellipse id="path-12" cx="10.7208946" cy="10.7957529" rx="6.84200618" ry="6.84340525"></ellipse>
+        <ellipse id="path-13" cx="15.7399073" cy="10.7957529" rx="6.84200618" ry="6.84340525"></ellipse>
+        <ellipse id="path-14" cx="16.0733382" cy="15.7046064" rx="7.64901203" ry="7.65057612"></ellipse>
+        <ellipse id="path-15" cx="19.9458597" cy="20.0172512" rx="9.44961356" ry="9.50115691"></ellipse>
+    </defs>
+    <g id="Artwork---Light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background" transform="translate(0, -0.7031)">
+            <rect id="Rectangle" fill="#000000" x="0" y="0" width="40" height="41.40625"></rect>
+            <rect id="Rectangle" fill="url(#radialGradient-1)" x="0" y="0" width="40" height="41.40625"></rect>
+            <rect id="Rectangle" fill="url(#radialGradient-2)" x="0" y="0" width="40" height="41.40625"></rect>
+            <rect id="Rectangle" fill="url(#radialGradient-3)" x="0" y="0" width="40" height="41.40625"></rect>
+            <rect id="Rectangle" fill="url(#radialGradient-4)" x="0" y="0" width="40" height="41.40625"></rect>
+            <rect id="Rectangle" fill="url(#radialGradient-5)" x="0" y="0" width="40" height="41.40625"></rect>
+        </g>
+        <g id="Oval" opacity="0.541968936" fill="#FFFFFF">
+            <use fill-opacity="0.11" style="mix-blend-mode: normal;" xlink:href="#path-6"></use>
+            <use fill-opacity="0.12" xlink:href="#path-6"></use>
+        </g>
+        <g id="Group-2" transform="translate(6.7188, 6.2187)" fill="#FFFFFF">
+            <g id="Oval" transform="translate(12.1956, 13.0359) rotate(120) translate(-12.1956, -13.0359)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-7"></use>
+                <use fill-opacity="0.6" xlink:href="#path-7"></use>
+            </g>
+            <g id="Oval" transform="translate(14.477, 11.9834) rotate(120) translate(-14.477, -11.9834)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-8"></use>
+                <use fill-opacity="0.6" xlink:href="#path-8"></use>
+            </g>
+            <g id="Oval" transform="translate(13.2304, 14.2989) rotate(120) translate(-13.2304, -14.2989)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-9"></use>
+                <use fill-opacity="0.6" xlink:href="#path-9"></use>
+            </g>
+            <g id="Oval" transform="translate(9.703, 16.7951) rotate(120) translate(-9.703, -16.7951)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-10"></use>
+                <use fill-opacity="0.6" xlink:href="#path-10"></use>
+            </g>
+            <g id="Oval" transform="translate(10.756, 17.6371) rotate(120) translate(-10.756, -17.6371)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-11"></use>
+                <use fill-opacity="0.6" xlink:href="#path-11"></use>
+            </g>
+            <g id="Oval" transform="translate(10.7209, 10.7958) rotate(120) translate(-10.7209, -10.7958)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-12"></use>
+                <use fill-opacity="0.6" xlink:href="#path-12"></use>
+            </g>
+            <g id="Oval" transform="translate(15.7399, 10.7958) rotate(120) translate(-15.7399, -10.7958)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-13"></use>
+                <use fill-opacity="0.6" xlink:href="#path-13"></use>
+            </g>
+            <g id="Oval" transform="translate(16.0733, 15.7046) rotate(120) translate(-16.0733, -15.7046)">
+                <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-14"></use>
+                <use fill-opacity="0.6" xlink:href="#path-14"></use>
+            </g>
+        </g>
+        <g id="Oval" fill="#FFFFFF">
+            <use fill-opacity="0.25" style="mix-blend-mode: normal;" xlink:href="#path-15"></use>
+            <use fill-opacity="0.6" xlink:href="#path-15"></use>
+        </g>
+    </g>
+</svg>

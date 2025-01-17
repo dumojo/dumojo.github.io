@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://dumojo.com</loc>
+	<lastmod>2025-01-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://dumojo.com/img/Group%203.png</image:loc>
+	<image:title>Group 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/Group%203.webp</image:loc>
+	<image:title>Group 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/Group%204.png</image:loc>
+	<image:title>Group 4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/Group%204.webp</image:loc>
+	<image:title>Group 4</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://dumojo.com/apps/</loc>
+	<lastmod>2025-01-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://dumojo.com/img/Artwork%20-%20Light.svg</image:loc>
+	<image:title>App Icons   App Store</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://dumojo.com/terms/</loc>
+	<lastmod>2025-01-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://dumojo.com/privacy/</loc>
+	<lastmod>2025-01-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
