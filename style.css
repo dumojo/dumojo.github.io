@@ -214,6 +214,10 @@ button{
 }
 
 
+/*  Image Protection */
+.img-protected{
+	-webkit-touch-callout: none;
+}
 /*  Image Scale */
 .img-fluid-up{
 	min-width: 100%;
@@ -221,6 +225,14 @@ button{
 }
 
 
+/* = Lists
+-------------------------------------------------------------- */
+.list-sp-lg li{
+	padding-bottom:20px;
+}
+.list-sp-md li:last-child,.list-sp-lg li:last-child,.list-sp-xl li:last-child{
+	padding-bottom:0;
+}
 
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
 	border-radius:0;
@@ -351,12 +363,16 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	margin-bottom:10px;
 	border-radius:10px 10px 10px 10px;
 }
-.primary-gradient-bg{
+.b-gradient-bg{
 	background:linear-gradient(274deg, var(--swatch-var-7096)  0%, var(--swatch-var-4580) 100%);
 }
 .app-card{
-	padding:0px 0px 0px 0px;
+	padding-top:0px;
+	padding-right:0px;
+	padding-left:0px;
 	border-radius:30px 30px 30px 30px;
+	height:600px;
+	margin-bottom:10px;
 }
 .cta-card-img{
 	border-bottom-right-radius:30px;
@@ -421,13 +437,14 @@ h1,h2,h3,h4,h5,h6{
 	font-size:20px;
 }
 .h1-style{
-	font-size:74px;
+	font-size:48px;
+	width:100%;
 }
 .h1-50- exercises-style{
 	font-size:60px;
 }
 .img-group-4-style{
-	width:294px;
+	width:398px;
 }
 .p-style{
 	width:100%;
@@ -466,18 +483,22 @@ h1,h2,h3,h4,h5,h6{
 	width:100%;
 }
 .h1-breezz-style{
-	font-size:60px;
+	font-size:40px;
 }
 .html-widget-0-style{
-	width:35.63%;
-	height:101px;
-}
-.container-div-min-height{
-	min-height:208px;
+	position:relative;
+	left:10px;
+	bottom:15px;
 }
 .img-bloc-4-style{
 	border-top-left-radius:30px;
 	border-top-right-radius:30px;
+}
+.app-card-bottom{
+	height:250px;
+}
+.bp-gradient-bg{
+	background:linear-gradient(274deg, var(--swatch-var-1829) 0%, #12454E 100%);
 }
 
 /* = Colour
@@ -501,6 +522,8 @@ h1,h2,h3,h4,h5,h6{
 	--swatch-var-4580:rgba(9,21,31,1.00);
 	
 	--swatch-var-2985:rgba(0,0,0,0.80);
+	
+	--swatch-var-1829:rgba(94,216,229,1.00);
 	
 }
 
@@ -653,10 +676,16 @@ h1,h2,h3,h4,h5,h6{
 		width:82.25%;
 	}
 	.h3-style{
-		width:80.58%;
+		width:100%;
 	}
 	.h1-hero-style{
 		width:79.33%;
+	}
+	.html-widget-0-style{
+		height:92px;
+		position:relative;
+		bottom:15px;
+		left:10px;
 	}
 	
 }
@@ -702,6 +731,19 @@ h1,h2,h3,h4,h5,h6{
 	.price-list-item{
 	}
 	.price-card{
+	}
+	.html-widget-0-style{
+		position:relative;
+	}
+	.html-widget-style{
+		position:relative;
+		bottom:10px;
+	}
+	.img-style{
+		width:40px;
+	}
+	.h1-style{
+		width:100%;
 	}
 	
 }
@@ -749,6 +791,11 @@ h1,h2,h3,h4,h5,h6{
 	}
 	.h3-style{
 		width:95.93%;
+	}
+	.html-widget-0-style{
+		position:relative;
+		bottom:10px;
+		left:15px;
 	}
 	
 }

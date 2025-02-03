@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://dumojo.com</loc>
-	<lastmod>2025-01-18</lastmod>
+	<lastmod>2025-02-03</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -21,26 +21,50 @@
 	<image:loc>https://dumojo.com/img/Group%204.webp</image:loc>
 	<image:title>Group 4</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/Combined%20Shape.png</image:loc>
+	<image:title>Group 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/Combined%20Shape.webp</image:loc>
+	<image:title>Group 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/bp.png</image:loc>
+	<image:title>Group 4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/bp.webp</image:loc>
+	<image:title>Group 4</image:title>
+	</image:image>
 </url>
 <url>
 	<loc>https://dumojo.com/apps/</loc>
-	<lastmod>2025-01-18</lastmod>
+	<lastmod>2025-02-03</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://dumojo.com/img/Artwork%20-%20Light.svg</image:loc>
 	<image:title>App Icons   App Store</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/App%20Store@2x.png</image:loc>
+	<image:title>App Icons   App Store</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dumojo.com/img/App%20Store@2x.webp</image:loc>
+	<image:title>App Icons   App Store</image:title>
+	</image:image>
 </url>
 <url>
 	<loc>https://dumojo.com/terms/</loc>
-	<lastmod>2025-01-18</lastmod>
+	<lastmod>2025-02-03</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://dumojo.com/privacy/</loc>
-	<lastmod>2025-01-18</lastmod>
+	<lastmod>2025-02-03</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
